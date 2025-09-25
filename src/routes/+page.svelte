@@ -97,4 +97,21 @@
 	]}
 />
 <AboutTeaser generating />
-<CallToAction generating />
+<CallToAction 
+	title="Don't wait for a lawsuit to find out you're not compliant"
+	subtitle="Join 1,000+ businesses that chose protection over risk"
+	description="ADA lawsuits have increased 320% since 2018, with average settlements of $75,000. While competitors charge thousands and take months, WebAbility gets your site compliant in under 24 hours for a fraction of the cost. Your business deserves better than expensive legal fees and lost customers."
+	imageSrc="/generated/image-a-professional-e-commerce-manager-smilin.webp"
+	callsToAction={[
+		{
+			href: "/get-started",
+			label: "Start free compliance scan",
+			variant: "primary"
+		},
+		{
+			href: "/contact",
+			label: "Talk to compliance expert",
+			variant: "secondary"
+		}
+	]}
+/>
