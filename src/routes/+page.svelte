@@ -26,60 +26,72 @@
 />
 
 <Summary
-	generating
 	title="What we do"
-	text="Our technology delivers measurable results through secure, adaptable solutions that directly increase productivity and drive growth."
+	text="WebAbility.io helps e-commerce sites become accessible to everyone — including users with disabilities — while reducing legal risk and increasing your reach. Our lightweight, AI-driven widget handles accessibility so you don't have to."
 />
 
 <Testimonials
-	generating
 	testimonials={[
 		{
-			name: "Jane Smith",
-			position: "CTO",
-			company: "Tech Innovations",
+			name: "Priya Mehta",
+			position: "Digital Marketing Manager",
+			company: "StyleCraft E-commerce",
 			quote:
-				"Their cutting-edge automation boosted our productivity by 35%.\nThe intuitive interface reduced training time and improved team adoption.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"WebAbility saved us $45,000 in potential legal fees and 3 months of development time.\nWe went from 127 accessibility violations to full WCAG compliance in just 2 weeks.",
+			image: "/generated/image-professional-headshot-of-a-confident-ind.webp"
 		},
 		{
-			name: "John Doe",
-			position: "Director of Operations",
-			company: "Global Solutions",
+			name: "Marcus Thompson",
+			position: "E-commerce Director",
+			company: "Urban Threads",
 			quote:
-				"Their robust security protocols gave us confidence in handling sensitive data.\nThe 24/7 support team resolved issues within hours, not days.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"Our conversion rate increased 23% after implementing WebAbility.\nThe risk of ADA lawsuits was keeping me up at night - now I sleep soundly knowing we're protected.",
+			image: "/generated/image-professional-headshot-of-a-confident-bla.webp"
 		},
 		{
-			name: "Sarah Johnson",
-			position: "Product Manager",
-			company: "Future Systems",
+			name: "Carmen Rodriguez",
+			position: "Website Operations Director",
+			company: "Artisan Marketplace",
 			quote:
-				"The scalable platform grew seamlessly with our business needs.\nTheir customization options allowed us to tailor solutions perfectly to our workflows.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"Installation took 15 minutes, not 15 weeks like our previous solution.\nWe're reaching 12% more customers and avoiding the $150,000 compliance audit we were dreading.",
+			image: "/generated/image-professional-headshot-of-a-confident-his.webp"
 		}
 	]}
 />
 
 <Features
-	generating
-	title="Features"
-	subtitle="Some features"
+	title="Why choose WebAbility.io"
+	subtitle="Built for small businesses who need compliance without complexity"
 	features={[
 		{
-			title: "Streamlined Workflows",
-			description:
-				"Automate repetitive tasks and connect systems to improve productivity with our industry-leading 87% time savings."
+			title: "Automated compliance monitoring",
+			description: "Get continuous ADA/WCAG scanning and instant alerts when issues arise. Never worry about missing accessibility problems that could lead to legal trouble.",
+			imageSrc: "/generated/image-a-business-professional-in-a-modern-offi.webp"
 		},
 		{
-			title: "Data Analysis",
-			description:
-				"Extract meaningful insights from your data with powerful analytical tools backed by proprietary AI algorithms that are 3x more accurate than competitors."
+			title: "Expand your customer reach",
+			description: "Make your site accessible to 61 million Americans with disabilities and boost your SEO rankings. Inclusive design drives both revenue and brand reputation.",
+			imageSrc: "/generated/image-a-group-of-diverse-customers-including-p.webp"
 		},
 		{
-			title: "Secure Collaboration",
-			description:
-				"Work together seamlessly while maintaining strict data privacy standards with our zero-knowledge architecture and military-grade encryption."
+			title: "Legal protection you can trust",
+			description: "Shield your business from costly ADA lawsuits with comprehensive compliance reports and documentation. Sleep better knowing you're protected.",
+			imageSrc: "/generated/image-a-close-up-of-a-legal-document-on-a-tidy.webp"
+		},
+		{
+			title: "Simple implementation, powerful results",
+			description: "Get started in under 10 minutes with our one-line integration. No technical expertise required—just add our code and watch accessibility issues disappear.",
+			imageSrc: "/generated/image-a-diverse-team-in-a-casual-meeting-room-.webp"
+		},
+		{
+			title: "Cost-effective for small businesses",
+			description: "Skip expensive accessibility audits and developer hours. Our automated solution costs 90% less than traditional compliance methods while delivering better results.",
+			imageSrc: "/generated/image-a-small-business-owner-in-a-bright-works.webp"
+		},
+		{
+			title: "Expert support when you need it",
+			description: "Access real accessibility experts, not chatbots. Get personalized guidance and quick resolutions from our team who understands small business challenges.",
+			imageSrc: "/generated/image-a-professional-support-team-in-a-cheerfu.webp"
 		}
 	]}
 />
