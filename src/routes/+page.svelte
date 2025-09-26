@@ -10,12 +10,20 @@
 </script>
 
 <Hero
-	title="Elevate your business with thoughtful design"
-	subtitle="Solutions that enhance user experience, and improve visual communication."
-	imageSrc="https://www.unc.mn/image-placeholder.svg"
-	generating
+	title="Make your website accessible. Stay compliant."
+	subtitle="Fix ADA issues fast without the complexity."
+	imageSrc="/generated/image-a-professional-digital-marketing-manager.webp"
+	centered={false}
 />
-<LogoScroller label="" generating />
+<LogoScroller 
+	label="Trusted by industry leaders"
+	logoUrls={[
+		'https://cdn.brandfetch.io/shopify.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/squarespace.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/etsy.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/bigcommerce.com/w/400/h/400/logo'
+	]}
+/>
 
 <Summary
 	generating
