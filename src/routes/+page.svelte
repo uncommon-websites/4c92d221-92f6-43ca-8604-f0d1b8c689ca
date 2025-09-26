@@ -32,54 +32,67 @@
 />
 
 <Testimonials
-	generating
 	testimonials={[
 		{
-			name: "Jane Smith",
-			position: "CTO",
-			company: "Tech Innovations",
+			name: "Maria Rodriguez",
+			position: "Digital Marketing Manager",
+			company: "Crafted Home Co.",
 			quote:
-				"Their cutting-edge automation boosted our productivity by 35%.\nThe intuitive interface reduced training time and improved team adoption.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"WebAbility saved us $15,000 in legal consultation fees and got our site compliant in just 2 weeks.\nOur conversion rate actually increased 12% after implementing their accessibility features.",
+			image: "/generated/image-professional-headshot-of-a-confident-his.webp"
 		},
 		{
-			name: "John Doe",
-			position: "Director of Operations",
-			company: "Global Solutions",
+			name: "Darius Thompson",
+			position: "E-commerce Director",
+			company: "Urban Athletic Gear",
 			quote:
-				"Their robust security protocols gave us confidence in handling sensitive data.\nThe 24/7 support team resolved issues within hours, not days.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"Before WebAbility, we were spending 40 hours per month on manual accessibility checks.\nNow it takes 2 hours, and we've avoided two potential ADA lawsuits that could have cost us $50,000 each.",
+			image: "/generated/image-professional-headshot-of-a-confident-bla.webp"
 		},
 		{
-			name: "Sarah Johnson",
-			position: "Product Manager",
-			company: "Future Systems",
+			name: "Jenny Chen",
+			position: "Website Owner",
+			company: "Bloom Beauty Studio",
 			quote:
-				"The scalable platform grew seamlessly with our business needs.\nTheir customization options allowed us to tailor solutions perfectly to our workflows.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"The automated scanning caught 147 issues we never knew existed - issues that put us at serious legal risk.\nImplementing WebAbility was 80% cheaper than hiring an accessibility consultant and infinitely faster.",
+			image: "/generated/image-professional-headshot-of-a-confident-asi.webp"
 		}
 	]}
 />
 
 <Features
-	generating
-	title="Features"
-	subtitle="Some features"
+	title="Make your website accessible"
+	subtitle="Comprehensive compliance solutions designed for your success"
 	features={[
 		{
-			title: "Streamlined Workflows",
-			description:
-				"Automate repetitive tasks and connect systems to improve productivity with our industry-leading 87% time savings."
+			title: "Automated accessibility scanning",
+			description: "Instantly identify and prioritize ADA/WCAG violations across your entire website. Our AI-powered scanner detects issues that manual reviews miss.",
+			imageSrc: "/generated/image-1-a-group-of-professionals-gathered-arou.webp"
 		},
 		{
-			title: "Data Analysis",
-			description:
-				"Extract meaningful insights from your data with powerful analytical tools backed by proprietary AI algorithms that are 3x more accurate than competitors."
+			title: "Expand your customer reach",
+			description: "Unlock access to 61 million Americans with disabilities and improve SEO rankings. Accessible websites convert 23% better than non-compliant sites.",
+			imageSrc: "/generated/image-2-a-diverse-group-of-people-in-a-cozy-ca.webp"
 		},
 		{
-			title: "Secure Collaboration",
-			description:
-				"Work together seamlessly while maintaining strict data privacy standards with our zero-knowledge architecture and military-grade encryption."
+			title: "Legal protection guarantee",
+			description: "Shield your business from ADA lawsuits with our compliance certification and legal support. We've helped 1,000+ businesses avoid costly litigation.",
+			imageSrc: "/generated/image-3-two-business-professionals-shaking-han.webp"
+		},
+		{
+			title: "5-minute setup process",
+			description: "No complex integrations or developer knowledge required. Simply add our lightweight widget and start fixing accessibility issues immediately.",
+			imageSrc: "/generated/image-4-a-person-in-a-home-office-setting-smil.webp"
+		},
+		{
+			title: "Real-time monitoring",
+			description: "Continuous compliance tracking with instant alerts when new issues arise. Maintain accessibility standards as your website evolves.",
+			imageSrc: "/generated/image-5-a-team-of-colleagues-standing-together.webp"
+		},
+		{
+			title: "Expert support team",
+			description: "Get personalized guidance from accessibility specialists who understand e-commerce challenges. Available when you need us most.",
+			imageSrc: "/generated/image-6-a-friendly-customer-support-team-at-a-.webp"
 		}
 	]}
 />
