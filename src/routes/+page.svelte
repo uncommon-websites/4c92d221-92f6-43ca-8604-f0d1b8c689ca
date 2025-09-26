@@ -33,6 +33,7 @@
 <Testimonials
 	testimonials={[
 		{
+<<<<<<< HEAD
 			name: "Priya Mehta",
 			position: "Digital Marketing Manager",
 			company: "StyleCraft E-commerce",
@@ -55,11 +56,36 @@
 			quote:
 				"Installation took 15 minutes, not 15 weeks like our previous solution.\nWe're reaching 12% more customers and avoiding the $150,000 compliance audit we were dreading.",
 			image: "/generated/image-professional-headshot-of-a-confident-his.webp"
+=======
+			name: "Maria Rodriguez",
+			position: "Digital Marketing Manager",
+			company: "Crafted Home Co.",
+			quote:
+				"WebAbility saved us $15,000 in legal consultation fees and got our site compliant in just 2 weeks.\nOur conversion rate actually increased 12% after implementing their accessibility features.",
+			image: "/generated/image-professional-headshot-of-a-confident-his.webp"
+		},
+		{
+			name: "Darius Thompson",
+			position: "E-commerce Director",
+			company: "Urban Athletic Gear",
+			quote:
+				"Before WebAbility, we were spending 40 hours per month on manual accessibility checks.\nNow it takes 2 hours, and we've avoided two potential ADA lawsuits that could have cost us $50,000 each.",
+			image: "/generated/image-professional-headshot-of-a-confident-bla.webp"
+		},
+		{
+			name: "Jenny Chen",
+			position: "Website Owner",
+			company: "Bloom Beauty Studio",
+			quote:
+				"The automated scanning caught 147 issues we never knew existed - issues that put us at serious legal risk.\nImplementing WebAbility was 80% cheaper than hiring an accessibility consultant and infinitely faster.",
+			image: "/generated/image-professional-headshot-of-a-confident-asi.webp"
+>>>>>>> 3c0abd047b6fc1673ef2b2948d82c6d3639debe6
 		}
 	]}
 />
 
 <Features
+<<<<<<< HEAD
 	title="Why choose WebAbility.io"
 	subtitle="Built for small businesses who need compliance without complexity"
 	features={[
@@ -92,8 +118,59 @@
 			title: "Expert support when you need it",
 			description: "Access real accessibility experts, not chatbots. Get personalized guidance and quick resolutions from our team who understands small business challenges.",
 			imageSrc: "/generated/image-a-professional-support-team-in-a-cheerfu.webp"
+=======
+	title="Make your website accessible"
+	subtitle="Comprehensive compliance solutions designed for your success"
+	features={[
+		{
+			title: "Automated accessibility scanning",
+			description: "Instantly identify and prioritize ADA/WCAG violations across your entire website. Our AI-powered scanner detects issues that manual reviews miss.",
+			imageSrc: "/generated/image-1-a-group-of-professionals-gathered-arou.webp"
+		},
+		{
+			title: "Expand your customer reach",
+			description: "Unlock access to 61 million Americans with disabilities and improve SEO rankings. Accessible websites convert 23% better than non-compliant sites.",
+			imageSrc: "/generated/image-2-a-diverse-group-of-people-in-a-cozy-ca.webp"
+		},
+		{
+			title: "Legal protection guarantee",
+			description: "Shield your business from ADA lawsuits with our compliance certification and legal support. We've helped 1,000+ businesses avoid costly litigation.",
+			imageSrc: "/generated/image-3-two-business-professionals-shaking-han.webp"
+		},
+		{
+			title: "5-minute setup process",
+			description: "No complex integrations or developer knowledge required. Simply add our lightweight widget and start fixing accessibility issues immediately.",
+			imageSrc: "/generated/image-4-a-person-in-a-home-office-setting-smil.webp"
+		},
+		{
+			title: "Real-time monitoring",
+			description: "Continuous compliance tracking with instant alerts when new issues arise. Maintain accessibility standards as your website evolves.",
+			imageSrc: "/generated/image-5-a-team-of-colleagues-standing-together.webp"
+		},
+		{
+			title: "Expert support team",
+			description: "Get personalized guidance from accessibility specialists who understand e-commerce challenges. Available when you need us most.",
+			imageSrc: "/generated/image-6-a-friendly-customer-support-team-at-a-.webp"
+>>>>>>> 3c0abd047b6fc1673ef2b2948d82c6d3639debe6
 		}
 	]}
 />
 <AboutTeaser generating />
-<CallToAction generating />
+<CallToAction 
+	title="Don't wait for a lawsuit to find out you're not compliant"
+	subtitle="Join 1,000+ businesses that chose protection over risk"
+	description="ADA lawsuits have increased 320% since 2018, with average settlements of $75,000. While competitors charge thousands and take months, WebAbility gets your site compliant in under 24 hours for a fraction of the cost. Your business deserves better than expensive legal fees and lost customers."
+	imageSrc="/generated/image-a-professional-e-commerce-manager-smilin.webp"
+	callsToAction={[
+		{
+			href: "/get-started",
+			label: "Start free compliance scan",
+			variant: "primary"
+		},
+		{
+			href: "/contact",
+			label: "Talk to compliance expert",
+			variant: "secondary"
+		}
+	]}
+/>

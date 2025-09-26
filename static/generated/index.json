@@ -4,6 +4,7 @@
     "filename": "/generated/image-a-professional-digital-marketing-manager.webp"
   },
   {
+<<<<<<< HEAD
     "prompt": "A business professional in a modern office space, reviewing printed reports with an approving, satisfied expression. The environment features natural lighting, plants, and comfortable furnishings. Colleagues work in the background, adding subtle variety to each scene.",
     "filename": "/generated/image-a-business-professional-in-a-modern-offi.webp"
   },
@@ -26,5 +27,57 @@
   {
     "prompt": "A professional support team in a cheerful office, assisting a business owner in person. The team is approachable and friendly, with welcoming body language and a collaborative atmosphere. The workspace includes plants, artwork, and comfortable seating, with varied team arrangements and decor.",
     "filename": "/generated/image-a-professional-support-team-in-a-cheerfu.webp"
+=======
+    "prompt": "Professional headshot of a confident Hispanic woman in a warmly lit office, natural pose, soft depth of field, subtle background details like bookshelves or potted plants for variety, business attire, friendly expression.",
+    "filename": "/generated/image-professional-headshot-of-a-confident-his.webp"
+  },
+  {
+    "prompt": "Professional headshot of a confident Black man in a contemporary workplace, natural lighting, slight background variation such as windows, indoor plants, or blurred office furniture, formal attire, approachable demeanor.",
+    "filename": "/generated/image-professional-headshot-of-a-confident-bla.webp"
+  },
+  {
+    "prompt": "Professional headshot of a confident Asian woman in a professional business environment, soft natural light, background elements like office chairs, tables, or decorative plants for variation, business clothing, poised and welcoming expression.",
+    "filename": "/generated/image-professional-headshot-of-a-confident-asi.webp"
+  },
+  {
+    "prompt": "1. A group of professionals gathered around a table in a modern office space, reviewing printed documents and discussing results, with a clean and organized environment, natural lighting, and minimalistic decor.",
+    "filename": "/generated/image-1-a-group-of-professionals-gathered-arou.webp"
+  },
+  {
+    "prompt": "2. A diverse group of people in a cozy café setting, each happily using their own device such as laptops, tablets, and phones, showing friendly interaction and inclusivity, with warm lighting and inviting atmosphere.",
+    "filename": "/generated/image-2-a-diverse-group-of-people-in-a-cozy-ca.webp"
+  },
+  {
+    "prompt": "3. Two business professionals shaking hands in front of a conference table, with a legal document and a small shield-shaped paperweight on the table, suggesting protection and compliance, in a bright, professional office space.",
+    "filename": "/generated/image-3-two-business-professionals-shaking-han.webp"
+  },
+  {
+    "prompt": "4. A person in a home office setting smiling as they open a simple package containing website setup materials, with an uncluttered desk, houseplants, and soft daylight through the window.",
+    "filename": "/generated/image-4-a-person-in-a-home-office-setting-smil.webp"
+  },
+  {
+    "prompt": "5. A team of colleagues standing together and looking at a large wall-mounted chart showing website performance metrics, with everyone engaged and the environment featuring modern office furnishings and natural light.",
+    "filename": "/generated/image-5-a-team-of-colleagues-standing-together.webp"
+  },
+  {
+    "prompt": "6. A friendly customer support team at a shared desk, smiling and assisting a business owner who is sitting across from them, with coffee cups, notepads, and a warm, collaborative office vibe.",
+    "filename": "/generated/image-6-a-friendly-customer-support-team-at-a-.webp"
+  },
+  {
+    "prompt": "A professional e-commerce manager, smiling and celebrating a work achievement at a modern office desk. The environment is bright and contemporary, with natural light, potted plants, and stylish office furniture. Other coworkers are visible in the background, engaged in various work activities. The scene exudes a sense of accomplishment and teamwork. The manager is dressed in smart casual attire, and the overall mood is positive and energetic.",
+    "filename": "/generated/image-a-professional-e-commerce-manager-smilin.webp"
+  },
+  {
+    "prompt": "Professional headshot of an Indian man in his 30s, confident expression, well-groomed, wearing a tailored suit jacket and open-collar shirt, natural lighting, neutral background, shallow depth of field, modern professional vibe.",
+    "filename": "/generated/image-professional-headshot-of-an-indian-man-i.webp"
+  },
+  {
+    "prompt": "A diverse group of professionals gathered around a table in a bright, modern office. Some team members are in wheelchairs, others are standing or seated, all engaged in a lively, collaborative discussion. The environment is warm and inclusive, with natural light, indoor plants, and a variety of comfortable seating options. Everyone appears focused and enthusiastic, with a mix of business casual and professional attire. No screens, no text, no visible technology.",
+    "filename": "/generated/image-a-diverse-group-of-professionals-gathere.webp"
+  },
+  {
+    "prompt": "A business professional with a friendly expression stands confidently in a welcoming office environment. The person is using a mobility aid, such as a cane or prosthetic limb, and is dressed in professional attire. The background features soft natural lighting, tasteful decor, and subtle greenery, creating an approachable and inclusive atmosphere. No screens, no text, no visible technology.",
+    "filename": "/generated/image-a-business-professional-with-a-friendly-.webp"
+>>>>>>> 3c0abd047b6fc1673ef2b2948d82c6d3639debe6
   }
 ]
